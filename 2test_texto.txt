@@ -1,3 +1,2 @@
-Esto es una prueba de texto para el editor del nuevo branch
-Aqui va la cosa
-es sencilla
+ 
+/! -- Nueva linea escrita por el comnado cat -- !/
