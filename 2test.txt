@@ -1,0 +1,14 @@
+** Texto de prueba **
+// Mostraremos lineas que se deben cambiar y otras correctas //
+
+
+Lineas de Error
+-> Aqui van las lineas de error
+	Error 1
+	Error 2
+	Error 3
+
+Lineas correctas
+-> Aqui lineas correctas
+Todo lo que deseamos escribir va aqui!
+
