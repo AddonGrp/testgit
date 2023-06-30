@@ -3,7 +3,7 @@
 
 
 Lineas de Error
--> Estas lineas estan correctas **
+-> Aqui van las lineas de error
 	Error 1
 	Error 2
 	Error 3
